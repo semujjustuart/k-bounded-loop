@@ -50,7 +50,7 @@ private static final int RUN = 10; // the number of the program runs. For simple
 	private static final int pop_num = 50; // the number of test cases
 	///private static final int fun_num = 1; // the serial number of the target benchmark function.
 	private static final int R = 14;
-	private static final int NODENUM = 3; // the number of the nodes/vertex in the target benchmark function.
+	private static final int NODENUM = 3; // the number of iterative paths in the loop
 	// static boolean[][] visit = new boolean[NODENUM][4]; // '2' is for 'Yes'
 	// branch and 'No' branch.
 	//private static final int MCN = 300000; // the maximum test case number for a template.
